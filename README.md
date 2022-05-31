@@ -1,1 +1,1 @@
-# renata-infiniti
+# InfinityGame
